@@ -24,7 +24,7 @@ function Suggestions() {
           className="flex items-center justify-between mt-3"
         >
           <img
-            className="w-1- h-10 rounded-full border p-[2px]"
+            className="w-10 h-10 rounded-full border p-[2px]"
             src={profile.avatar}
             alt=""
           />
